@@ -19,4 +19,4 @@
     I learned from this project that you need to finish the HTML first before the CSS. 
     By doing the CSS first it will creat conflict when you made the HTML and connect both.
     This was the first time I tried JavaScript. 
-    It was quite easy for me cause I already have glipmse of it and also I already have knowledge with Java.
+    It was very exciting feeling when you try a new language and it runs well.
